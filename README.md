@@ -1,0 +1,2 @@
+# ternrc
+tern-project configuration
