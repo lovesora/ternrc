@@ -1,6 +1,6 @@
 {
   "name": "ternrc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": ".tern-project configuration",
   "main": "front.tern-project",
   "scripts": {
